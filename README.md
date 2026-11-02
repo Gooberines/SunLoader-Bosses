@@ -19,21 +19,26 @@ issues in this repository, nothing else on your account.
 Please post bosses through the game, so they keep the format Sun Loader reads. Bosses contain attack data only,
 never code or song files.
 
-## Difficulty and stars
+## Suns and difficulty
 
-Like Geometry Dash, the repository owner rates bosses with a difficulty. It shows as a label on the boss's issue:
+Like Geometry Dash's stars, the repository owner rates bosses **1 to 20 suns** (a `suns: N` label on the boss's
+issue). The sun count sets the difficulty:
 
-| Difficulty | Stars |
+| Suns | Difficulty |
 |---|---|
-| Easy | 2 |
-| Normal | 3 |
-| Hard | 4 |
-| Harder | 6 |
-| Insane | 8 |
-| Easy / Medium / Hard / Insane / Extreme Demon | 10 |
+| 1-2 | Easy |
+| 3 | Normal |
+| 4-5 | Hard |
+| 6-7 | Harder |
+| 8-9 | Insane |
+| 10-11 | Easy Demon |
+| 12-13 | Medium Demon |
+| 14-15 | Hard Demon |
+| 16-17 | Insane Demon |
+| 18-20 | Extreme Demon |
 
-Beat a rated boss in the game and you earn its stars. The game posts a short "Beat it" comment from your GitHub
-account, and the **Stars** tab adds them up into a leaderboard. Runs with the editor or no-damage mode on, and copies
+Beat a rated boss in the game and you earn its suns. The game posts a short "Beat it" comment from your GitHub
+account, and the **Suns** tab adds them up into a leaderboard. Runs with the editor or no-damage mode on, and copies
 you changed, don't count. Fake clear comments get deleted.
 
 ## Rules
